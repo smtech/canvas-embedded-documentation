@@ -1,0 +1,14 @@
+{
+    "name": "canvashack/plugin-embedded-documentation",
+    "description": "Embed documentation specific to your institution in the Canvas UI",
+    "type": "canvashack-plugin",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Seth Battis",
+            "email": "sethbattis@stmarksschool.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
